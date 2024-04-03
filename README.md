@@ -2,6 +2,7 @@
 <h3 align="center">I am a self-taught web developer, UI/UX designer & a computer science Student</h3>
 
 ## About Me:
+[![wakatime](https://wakatime.com/badge/user/16514914-4626-4732-8ab1-9ea08b62263f.svg)](https://wakatime.com/@16514914-4626-4732-8ab1-9ea08b62263f)<br>
 🌱 I’m currently learning AI/ML, Gen AI, NLP<br>💬 Ask me about Web Development, DSA, AI/ML, Gen AI<br>📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/aadityaa2606/)<br>💻 My website [www.aadinagarajan.com](https://aadinagarajan.com/)<br>📫 How to reach me aadityaa2606@gmail.com<br>⚡ Fun fact I am a left-hander
 
 ## 💻 Tech Stack:
@@ -96,7 +97,6 @@
 ###
 
 ## 📊 Stats:
-[![wakatime](https://wakatime.com/badge/user/16514914-4626-4732-8ab1-9ea08b62263f.svg)](https://wakatime.com/@16514914-4626-4732-8ab1-9ea08b62263f)
 <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaa2606&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Aadityaa2606&theme=white&hide_border=true&include_all_commits=false&count_private=false" height="200"/>
