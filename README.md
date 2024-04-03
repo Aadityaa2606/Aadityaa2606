@@ -95,14 +95,24 @@
 
 ###
 
-## 📊 Stats:
-<p align='left'>
+## 📈 Stats:
+<!-- <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaa2606&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Aadityaa2606&theme=white&hide_border=true&include_all_commits=false&count_private=false" height="200"/>
 </p>
-<!-- <p align='left'>
+<p align='left'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadityaa2606&theme=dark&hide_border=false" height="200"/>
 </p> -->
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aadityaa2606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadityaa2606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityaa2606&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="230" alt="activity-graph graph"  />
+</div>
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aadi.2606_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadityaa2606) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aadityaa-n) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aadityaa_2606) 
