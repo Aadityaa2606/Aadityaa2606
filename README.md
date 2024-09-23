@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadityaa</h1>
-<h3 align="center">I am a self-taught Full stack developer, React Native developer, & a CS Student</h3>
+<h3 align="center">I am a self-taught Full Stack developer, React Native developer and a CS Student</h3>
 
 ## About Me:
 [![wakatime](https://wakatime.com/badge/user/16514914-4626-4732-8ab1-9ea08b62263f.svg)](https://wakatime.com/@16514914-4626-4732-8ab1-9ea08b62263f)<br>
