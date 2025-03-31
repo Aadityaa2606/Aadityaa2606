@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aadityaa</h1>
-<h3 align="center">I am a self-taught Full Stack developer, React Native developer and a CS Student</h3>
+<h3 align="center">I am a self-taught Full Stack developer, Go developer and a React Native developer.</h3>
 
 ## About Me:
 [![wakatime](https://wakatime.com/badge/user/16514914-4626-4732-8ab1-9ea08b62263f.svg)](https://wakatime.com/@16514914-4626-4732-8ab1-9ea08b62263f)<br>
-🌱 I’m currently learning React Native<br>💬 Ask me about Web Development, DSA, AI/ML, Gen AI<br>📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/aadityaa2606/)<br>💻 My website [www.aadinagarajan.com](https://aadinagarajan.com/)<br>📫 How to reach me aadityaa2606@gmail.com<br>⚡ Fun fact I am a left-hander
+🌱 I’m currently learning Golang<br>💬 Ask me about Web Dev, DSA, Microservice architectures and linux<br>📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/aadityaa2606/)<br>💻 My website [www.aadinagarajan.com](https://aadinagarajan.com/)<br>📫 How to reach me aadityaa2606@gmail.com<br>⚡ Fun fact I am a left-hander
 
 ## 💻 Tech Stack:
 <div align="left">
